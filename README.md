@@ -1,0 +1,1 @@
+# StockEase-inventory-webapp
